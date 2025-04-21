@@ -61,7 +61,7 @@ Using a custom MATLAB BEMT script, we generated theoretical performance curves c
   - Additional velocities: 4.53 m/s and 5.03 m/s (limited by power outage)
 - Power vs RPM curve was measured by sweeping torque and calculating power output
 
-> ⚠️ A campus-wide power outage limited our ability to collect multiple runs
+> ⚠️ A building power outage limited our ability to collect multiple runs
 
 ---
 
@@ -74,7 +74,7 @@ Using a custom MATLAB BEMT script, we generated theoretical performance curves c
 | Max Power Coefficient (Cp)   | 0.50        | 0.27         | −46.0%     |
 
 <p align="center">
-  <img src="../Projects/Images/AirfoilTestPower.png" alt="Experimental Power Curve" width="500"/>
+  <img src="../Projects/Images/ExperimentPower.png" alt="Experimental Power Curve" width="500"/>
 </p>
 <p align="center"><em>Figure 3: Measured power curve at design wind speed</em></p>
 
