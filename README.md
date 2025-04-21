@@ -8,7 +8,7 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
   <a href="https://www.linkedin.com/in/ryan-kiachian-77b090247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <span>Connect with me on <a href="https://www.linkedin.com/in/ryan-kiachian-77b090247/">LinkedIn</a></span>
+  <span>Connect with me on linked in: <a href="https://www.linkedin.com/in/ryan-kiachian-77b090247/">LinkedIn</a></span>
 </p>
 
 
