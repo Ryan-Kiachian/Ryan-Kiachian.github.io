@@ -46,11 +46,11 @@ The electrical system integrated multiple sensors and two motors:
   - 6V battery pack for motors
 
 <p align="center">
-  <img src="../Projects/Images/CircuitBoard.png" alt="Figure 1: Top view of the robot showing Arduino, breadboard, and aluminum plow" width="400"/>
+  <img src="../Projects/Images/CircuitBoard.png" width="400"/>
 </p>
 
 <p align="center">
-  <em>Figure 2: Full schemeatic circuit diagram </em>
+  <em>Figure 2: Full schematic circuit diagram </em>
 </p>
 
 
