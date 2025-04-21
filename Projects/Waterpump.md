@@ -42,11 +42,10 @@ After several iterations, the team finalized a 4-cylinder layout in opposing pai
 
 The project required detailed tolerance planning and multi-process machining, including:
 
-- **Turning (lathe):** Pistons, cylinders, dowel pins, crankshaft shaft stock
+- **Lathe:** Pistons, cylinders, dowel pins, crankshaft shaft stock
 - **Milling:** Mounting plates, constraint plates, crankshaft eccentrics
-- **Reaming:** For tight press-fit and slip-fit tolerance control
 - **Welding:** Steel crankshaft components and eccentric pin assemblies
-- **Acrylic Joining:** Laser-cut U-supports and puzzle-fit acrylic base and top plates
+- **Laser Cutting:** Laser-cut U-supports and puzzle-fit acrylic base and top plates
 
 Parts were machined in parallel by team members and assembled after verifying tolerances.
 
@@ -54,9 +53,9 @@ Parts were machined in parallel by team members and assembled after verifying to
 > 🗓️ Full fabrication timeline: 2 weeks
 
 <p align="center">
-  <img src="../Projects/Images/WaterPump_Fabrication.png" alt="Pump components during fabrication" width="500"/>
+  <img src="../Projects/Images/PumpAssembly.png"  width="500"/>
 </p>
-<p align="center"><em>Figure 2: In-process photo showing pump fabrication and layout of machined components</em></p>
+<p align="center"><em>Figure 3: Pump Assembly with top acrylic plate not attached</em></p>
 
 ---
 
