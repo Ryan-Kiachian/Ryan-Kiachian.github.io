@@ -6,6 +6,11 @@
 
 This project involved designing, optimizing, fabricating, and testing a set of small-scale wind turbine blades. Using Blade Element Momentum Theory (BEM), our team created blades tailored for a specific wind distribution and design RPM. The project merged aerodynamic theory, MATLAB-based simulation, and real-world testing to evaluate performance gains from an optimized airfoil geometry.
 
+<p align="center">
+  <img src="../Projects/Images/PrintedAirFoils.png"  width="400"/>
+</p>
+<p align="center"><em>Figure 1: Finalized setup with Airfoils in rigy</em></p>
+
 ---
 
 ## 🧠 Project Objectives
