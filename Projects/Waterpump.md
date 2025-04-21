@@ -76,39 +76,35 @@ The pump was connected to a test motor and run at both half (60 RPM) and full (1
 - Professor stated that our pump was the most successful pump he's seen in the last ten years of running the project.
 
 <p align="center">
-  <div style="display: inline-block; text-align: center;">
-    <img src="../Projects/Images/PumpSetUp.jpg" alt="Pump during testing" width="400"/>
-    <p><em>Figure 4: Water pump connected to motor for volumetric flow rate testing</em></p>
-  </div>
-  <div style="display: inline-block; text-align: center; margin-left: 20px;">
-    <img src="../Projects/Images/Fracture.jpg" alt="Fractured acrylic plate" width="400"/>
-    <p><em>Figure 5: Aftermath from critical fracture</em></p>
-  </div>
+  <img src="../Projects/Images/PumpSetUp.jpg" alt="Pump during testing" width="500"/>
 </p>
+<p align="center"><em>Figure 4: Water pump connected to motor for volumetric flow rate testing</em></p>
 
-
-
+<p align="center">
+  <img src="../Projects/Images/Fracture.jpg" width="500"/>
+</p>
+<p align="center"><em>Figure 5: Aftermath from critical fracture </em></p>
 
 ---
 
 ## 🧠 Reflections & Recommendations
 
-This project demonstrated the challenges and rewards of end-to-end mechanical system development — from theoretical performance to practical fabrication and system failure.
+This project demonstrated the challenges and rewards of a full mechanical system development.
 
 ### What Worked:
 - Met flow rate targets by **over 15×** at half speed
 - Tolerancing of pistons and cylinders produced a strong seal and reliable motion
-- Acrylic puzzle-fit support system was innovative and lightweight
+- Acrylic puzzle-fit support system added rigidity and reduced vibration
 
 ### What Could Be Improved:
 - **Acrylic structural parts** were the weak link; upgrading to aluminum would allow high-speed operation
-- Press fits and bushing press tolerances were time-intensive — could be CNC-optimized
-- Future versions should account for **fatigue and vibration damping**
+- Press fits and tight tolerances could have been refined with a higher budget and more time
+- Future versions could account more for **vibration damping** despite our pump already doing a good job in this category
 
 ### Key Takeaways:
-- Planning for failure (i.e., pre-designing support reinforcements) made troubleshooting faster and more effective
-- Manual machining experience reinforced how **design decisions impact manufacturability**
-- Collaboration and parallel work allowed us to meet aggressive deadlines
+- Planning for failure like adding two support acrylics instead of one, made troubleshooting faster and more effective
+- The self-performed manual machining experience taught how **design decisions impact manufacturability**
+- Collaboration and parallel work allowed us to his the tight deadlines while succeeding
 
 
 [← Back to Main Portfolio](../README.md)
