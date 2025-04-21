@@ -86,9 +86,9 @@ The robot used condition-based logic to update movement decisions in real-time.
 
 ## 🏁 Competition Results
 
-- **Wins:** 2 matches successfully completed
+- **Wins:** Finished 4 wins, 2 losses
 - **Challenges:**
-  - The one main challenge we faced was the interaction with the opponents robot. If the two bots collided, both got knocked off course.
+  - The one main challenge we faced was the interaction with the opponents robot. If the two bots collided, both got knocked off course. This was the cause of our two losses.
 - **Fixes & Adjustments:**
   - Recalibrated the robot's starting orientation to better align with the field.
   - Repaired sensor wiring and improved response to edge detection events.
