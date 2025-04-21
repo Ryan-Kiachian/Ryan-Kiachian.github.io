@@ -99,3 +99,6 @@ This project highlighted the power of simulation in understanding the fundamenta
 
 - **No Weight or Cost Consideration**: Increasing bypass ratio increases engine diameter, and weight. However, none of these conditions were captured in the analysis but are important in real-world aircraft performance and design trade studies.
 
+
+
+[← Back to Main Portfolio](../README.md)
