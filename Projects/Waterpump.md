@@ -76,14 +76,16 @@ The pump was connected to a test motor and run at both half (60 RPM) and full (1
 - Professor stated that our pump was the most successful pump he's seen in the last ten years of running the project.
 
 <p align="center">
-  <img src="../Projects/Images/PumpSetUp.jpg" width="400"/>
+  <div style="display: inline-block; text-align: center;">
+    <img src="../Projects/Images/PumpSetUp.jpg" alt="Pump during testing" width="400"/>
+    <p><em>Figure 4: Water pump connected to motor for volumetric flow rate testing</em></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin-left: 20px;">
+    <img src="../Projects/Images/Fracture.jpg" alt="Fractured acrylic plate" width="400"/>
+    <p><em>Figure 5: Aftermath from critical fracture</em></p>
+  </div>
 </p>
-<p align="center"><em>Figure 4: Water pump connected to motor for volumetric flow rate testing</em></p>
 
-<p align="center">
-  <img src="../Projects/Images/Fracture.jpg" width="400"/>
-</p>
-<p align="center"><em>Figure 5: Aftermath from critical fracture </em></p>
 
 
 
