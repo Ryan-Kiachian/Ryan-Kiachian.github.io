@@ -39,7 +39,7 @@ This project involved designing, optimizing, fabricating, and testing a set of s
 <p align="center">
   <img src="../Projects/Images/ChordLengthPitch.png" alt="Chord and Pitch Distribution" width="500"/>
 </p>
-<p align="center"><em>Figure 1: Chord length and pitch angle distributions for the optimized geometry</em></p>
+<p align="center"><em>Figure 2: Chord length and pitch angle distributions for the optimized geometry</em></p>
 
 ---
 
@@ -54,7 +54,7 @@ Using a custom MATLAB BEM script, I generated theoretical performance curves com
 <p align="center">
   <img src="../Projects/Images/TheoreticalPowerAirfoil.png" alt="Power vs RPM Graph" width="500"/>
 </p>
-<p align="center"><em>Figure 2: Theoretical power curves comparing baseline and optimized blade designs</em></p>
+<p align="center"><em>Figure 3: Theoretical power curves comparing baseline and optimized blade designs</em></p>
 
 ---
 
@@ -81,7 +81,7 @@ Using a custom MATLAB BEM script, I generated theoretical performance curves com
 <p align="center">
   <img src="../Projects/Images/ExperimentPower.png" alt="Experimental Power Curve" width="500"/>
 </p>
-<p align="center"><em>Figure 3: Measured power curve at design wind speed</em></p>
+<p align="center"><em>Figure 4: Measured power curve at design wind speed</em></p>
 
 ---
 
