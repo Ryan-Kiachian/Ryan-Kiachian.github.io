@@ -4,7 +4,7 @@
 
 **MAE 4272 | Blade Element Momentum Theory | MATLAB | 3D Printing | Wind Tunnel Testing**
 
-This project involved designing, optimizing, fabricating, and testing a set of small-scale wind turbine blades. Using Blade Element Momentum Theory (BEM), our team created blades tailored for a specific wind distribution and design RPM. The project merged aerodynamic theory, MATLAB-based simulation, and real-world testing to evaluate performance gains from an optimized airfoil geometry.
+This project involved designing, optimizing, fabricating, and testing a set of small-scale wind turbine blades. Using Blade Element Momentum Theory (BEM), I created blades tailored for a specific wind distribution and design RPM. The project merged aerodynamic theory, MATLAB-based simulation, and real-world testing to evaluate performance gains from an optimized airfoil geometry.
 
 <p align="center">
   <img src="../Projects/Images/PrintedAirFoils.png"  width="400"/>
@@ -45,7 +45,7 @@ This project involved designing, optimizing, fabricating, and testing a set of s
 
 ## 📈 Simulation & Optimization Results
 
-Using a custom MATLAB BEM script, we generated theoretical performance curves comparing the optimized design to the baseline Betz-limit blade:
+Using a custom MATLAB BEM script, I generated theoretical performance curves comparing the optimized design to the baseline Betz-limit blade:
 
 - 📈 Max power coefficient improved by **1.5%**
 - ⚡ Power at design RPM increased by **30.2%**
@@ -66,7 +66,7 @@ Using a custom MATLAB BEM script, we generated theoretical performance curves co
   - Additional velocities: 4.53 m/s and 5.03 m/s (limited by power outage)
 - Power vs RPM curve was measured by sweeping torque and calculating power output
 
-> ⚠️ A building power outage limited our ability to collect multiple runs
+> ⚠️ A building power outage limited my ability to collect multiple runs
 
 ---
 
@@ -87,21 +87,21 @@ Using a custom MATLAB BEM script, we generated theoretical performance curves co
 
 ## 🧠 Reflections & Recommendations
 
-Despite the significant drop in performance between theoretical and experimental results, our **optimized blade still outperformed the original Betz-limit blade design** during testing — validating the effectiveness of our design improvements.
+Despite the significant drop in performance between theoretical and experimental results, the **optimized blade still outperformed the original Betz-limit blade design** during testing — validating the effectiveness of the designs improvements.
 
 Several factors likely contributed to the lower-than-expected experimental performance:
 
-- **Blade Tip Deflection**: The 3D printed blades were more flexible than anticipated. At high RPMs, we observed visible tip deflection which distorted the intended aerodynamic shape, reducing lift and increasing drag — particularly at the blade tips where power contribution is highest.
+- **Blade Tip Deflection**: The 3D printed blades were more flexible than anticipated. At high RPMs, I observed visible tip deflection which distorted the intended aerodynamic shape, reducing lift and increasing drag — particularly at the blade tips where power contribution is highest.
   
 - **Friction and Inertia in the Test Rig**: The turbine hub, motor shaft, and torque brake introduced some additional resistance not accounted for in the theoretical model. This parasitic drag decreased the net power output measured during testing.
 
-- **Testing Interruptions**: Due to the power outage during our lab session, we were only able to complete a single velocity sweep, limiting our ability to tune, iterate, or verify results through repeated trials.
+- **Testing Interruptions**: Due to the power outage during the lab session, I was only able to complete a single velocity sweep, limiting the ability to tune, iterate, or verify results through repeated trials.
 
-- **Assumptions in the model**: While our MATLAB simulation accounted for tip losses and wake effects, it still assumes ideal flow, no turbulence, and a perfectly rigid blade. Real-world flow separation, surface roughness, and slight alignment errors all degrade actual performance.
+- **Assumptions in the model**: While the MATLAB simulation accounted for tip losses and wake effects, it still assumes ideal flow, no turbulence, and a perfectly rigid blade. Real-world flow separation, surface roughness, and slight alignment errors all degrade actual performance.
 
-Despite these challenges, our optimized blade **extracted more power than the original blade in the same test conditions**, showing a clear improvement in aerodynamic efficiency. This confirms that even with real-world limitations, thoughtful design and modeling can lead to tangible performance gains.
+Despite these challenges, the optimized blade **extracted more power than the original blade in the same test conditions**, showing a clear improvement in aerodynamic efficiency. This confirms that even with real-world limitations, thoughtful design and modeling can lead to tangible performance gains.
 
 ### 📈 Key Takeaway:
-**Theory guided our design**, but ** the experiments validated it**. Future iterations that address material stiffness, wind tunnel accuracy, and model assumptions can help close the gap between prediction and performance.
+**Theory guided the final design**, but ** the experiments validated it**. Future iterations that address material stiffness, wind tunnel accuracy, and model assumptions can help close the gap between prediction and performance.
 
 
