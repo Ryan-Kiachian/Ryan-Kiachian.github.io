@@ -104,4 +104,5 @@ Despite these challenges, the optimized blade **extracted more power than the or
 ### 📈 Key Takeaway:
 **Theory guided the final design**, but ** the experiments validated it**. Future iterations that address material stiffness, wind tunnel accuracy, and model assumptions can help close the gap between prediction and performance.
 
+[← Back to Main Portfolio](../README.md)
 
