@@ -6,18 +6,18 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 
 | Project                              | Description                                                                 |
 |--------------------------------------|-----------------------------------------------------------------------------|
-| 💧 [Water Pump Design](./Projects/Waterpump)                 | Designed and built a piston pump with 4 cylinders using full-cycle fabrication |
-| 🔥 [Engine PV Diagram (Forklift Engine)](./Projects/ForkliftEngineP_V)       | Modeled pressure-volume diagram using MATLAB                    |
-| 🌪 [Wind Turbine Optimization](./Projects/AirfoilDesign)     | Optimized airfoil blade design and tested power curves in a wind tunnel     |
+| 💧 [Water Pump Design](./Projects/Waterpump.md)                 | Designed and built a piston pump with 4 cylinders using full-cycle fabrication |
+| 🔥 [Engine PV Diagram (Forklift Engine)](./Projects/ForkliftEngineP_V.md)       | Modeled pressure-volume diagram using MATLAB                    |
+| 🌪 [Wind Turbine Optimization](./Projects/AirfoilDesign.md)     | Optimized airfoil blade design and tested power curves in a wind tunnel     |
 | 🤖 [Autonomous Robot](./Projects/AutonomousRobot.md)            | Arduino robot for color-zone detection and object collection               |
-| ✈️ [Turbofan Analysis](./Projects/AnalysisTurboFan)            | MATLAB plots of SFC/ST vs Mach & bypass ratio for aircraft propulsion     |
+| ✈️ [Turbofan Analysis](./Projects/AnalysisTurboFan.md)            | MATLAB plots of SFC/ST vs Mach & bypass ratio for aircraft propulsion     |
 
 ## 📄 Resume
 
 📥 [Download Resume](./public/Resume.pdf)
 
 <p align="center">
-  <img src="Images/Resume.png" width="400"/>
+  <img src="./Projects/Images/Resume.png" width="400"/>
 </p>
 
 <p align="center">
