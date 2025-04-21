@@ -17,7 +17,7 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 📥 [Download Resume](./public/Resume.pdf)
 
 <p align="center">
-  <img src="../Projects/Images/Resume.png"width="400"/>
+  <img src="Images/Resume.png" width="400"/>
 </p>
 
 <p align="center">
