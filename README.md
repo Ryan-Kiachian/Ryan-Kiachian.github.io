@@ -2,6 +2,18 @@
 
 Welcome! This is my engineering portfolio showcasing a range of technical projects I've worked on throughout my time in Cornell’s Mechanical & Aerospace Engineering program, while also competing as a Division I basketball player.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ryan-kiachian-77b090247/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+---
+
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/ryan-kiachian-77b090247/)
+
+
+
 ## 📁 Projects
 
 | Project                              | Description                                                                 |
