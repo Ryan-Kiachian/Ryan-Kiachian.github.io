@@ -17,7 +17,7 @@ Key behaviors:
 - Collect blocks with a physical scoop
 - Return to the starting zone autonomously
 
-> ![Figure 1: Top view of the robot showing Arduino, breadboard, and aluminum scoop](Projects/Images/RobotTopView.png)
+> ![Figure 1: Top view of the robot showing Arduino, breadboard, and aluminum scoop](Projects/Images/RobotTopView)
 
 
 ---
