@@ -65,12 +65,15 @@ The pump was connected to a test motor and run at both half (60 RPM) and full (1
 
 ### Half-Speed Performance:
 - Output flow rate: **15.7 L/min**
-- Volumetric efficiency: **≈ 80%**
+- Expected volumetric efficiency: **≈ 80%**
 - Observed minor leakage due to worn piston seals from dry testing
 
 ### Full-Speed Outcome:
-- Acrylic base and top plates **snapped** after a few seconds due to vibration and bending stress
-- Despite the failure, the pump **met performance goals at low speed** and exceeded design expectations
+- Acrylic base and top plates **snapped** after a few seconds.
+- We expect this is due to an error of not opening the valve and allowing water to enter the pump before spinning the crankshaft at full speed
+- Once we opened the valve we believe the high pressure difference likely caused the brittle acrylic plates to fracture due to the sudden load
+- Despite the failure, the pump **met all performance goals even atlow speed** and exceeded design expectations
+- Professor stated that our pump was the most successful pump he's seen in the last ten years of running the project.
 
 <p align="center">
   <img src="../Projects/Images/WaterPump_Testing.png" alt="Pump during testing" width="500"/>
