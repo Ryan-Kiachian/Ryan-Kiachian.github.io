@@ -97,6 +97,6 @@ Several factors likely contributed to the lower-than-expected experimental perfo
 Despite these challenges, our optimized blade **extracted more power than the original blade in the same test conditions**, showing a clear improvement in aerodynamic efficiency. This confirms that even with real-world limitations, thoughtful design and modeling can lead to tangible performance gains.
 
 ### 📈 Key Takeaway:
-**Theory guided our design**, but **experiments validated our direction** — even if not perfectly matched in magnitude. Future iterations that address material stiffness, wind tunnel accuracy, and model assumptions can help close the gap between prediction and performance.
+**Theory guided our design**, but ** the experiments validated it**. Future iterations that address material stiffness, wind tunnel accuracy, and model assumptions can help close the gap between prediction and performance.
 
 
