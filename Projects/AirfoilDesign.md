@@ -4,14 +4,14 @@
 
 **MAE 4272 | Blade Element Momentum Theory | MATLAB | 3D Printing | Wind Tunnel Testing**
 
-This project involved designing, optimizing, fabricating, and testing a set of small-scale wind turbine blades. Using Blade Element Momentum Theory (BEMT), our team created blades tailored for a specific wind distribution and design RPM. The project merged aerodynamic theory, MATLAB-based simulation, and real-world testing to evaluate performance gains from an optimized airfoil geometry.
+This project involved designing, optimizing, fabricating, and testing a set of small-scale wind turbine blades. Using Blade Element Momentum Theory (BEM), our team created blades tailored for a specific wind distribution and design RPM. The project merged aerodynamic theory, MATLAB-based simulation, and real-world testing to evaluate performance gains from an optimized airfoil geometry.
 
 ---
 
 ## 🧠 Project Objectives
 
 - Improve power extraction of a wind turbine operating at a constant RPM
-- Optimize chord and pitch distributions using BEMT with tip loss and wake effects
+- Optimize chord and pitch distributions using BEM with tip loss and wake effects
 - Fabricate blades with 3D printing and test them in a controlled wind tunnel environment
 - Compare theoretical performance against baseline Betz-limit geometry and experimental data
 
@@ -40,7 +40,7 @@ This project involved designing, optimizing, fabricating, and testing a set of s
 
 ## 📈 Simulation & Optimization Results
 
-Using a custom MATLAB BEMT script, we generated theoretical performance curves comparing the optimized design to the baseline Betz-limit blade:
+Using a custom MATLAB BEM script, we generated theoretical performance curves comparing the optimized design to the baseline Betz-limit blade:
 
 - 📈 Max power coefficient improved by **1.5%**
 - ⚡ Power at design RPM increased by **30.2%**
