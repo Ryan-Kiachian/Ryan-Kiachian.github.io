@@ -20,4 +20,4 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 
 ---
 
-Thanks for visiting! Feel free to explore the code in `App.js` to see how the portfolio is structured.
+Thanks for visiting!
