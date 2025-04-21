@@ -9,7 +9,7 @@ This team project involved the full-cycle development of a **multi-cylinder pist
 
 ---
 
-## 🧠 Project Objectives
+## Project Objectives
 
 - Design a **compact, mechanically efficient** piston-style water pump
 - Simulate expected volumetric flow rates and optimize cylinder configuration
@@ -22,7 +22,7 @@ This team project involved the full-cycle development of a **multi-cylinder pist
 
 ---
 
-## 🧰 Final CAD Design
+## Final CAD Design
 
 After several iterations, the team finalized a 4-cylinder layout in opposing pairs, with staggered crankshaft eccentrics, U-shaped acrylic supports, aluminum constraint plates, and NPT hose fittings for water flow.
 
@@ -87,7 +87,7 @@ The pump was connected to a test motor and run at both half (60 RPM) and full (1
 
 ---
 
-## 🧠 Reflections & Recommendations
+## Reflections & Recommendations
 
 This project demonstrated the challenges and rewards of a full mechanical system development.
 
