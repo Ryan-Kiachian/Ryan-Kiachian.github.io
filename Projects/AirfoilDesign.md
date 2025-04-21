@@ -82,10 +82,23 @@ Using a custom MATLAB BEMT script, we generated theoretical performance curves c
 
 ## 🧠 Reflections & Recommendations
 
-- **Tip deflection** was visibly noticeable during high-speed rotation and likely reduced efficiency
-- Testing was limited due to lab access and equipment failure (power outage)
-- Future improvements:
-  - Redesign blade for performance across **range of wind speeds** (not just one value)
-  - Use **stiffer materials** to minimize aerodynamic shape distortion
-  - Implement more robust testing methodology with redundant trials and velocity points
+Despite the significant drop in performance between theoretical and experimental results, our **optimized blade still outperformed the original Betz-limit blade design** during testing — validating the effectiveness of our design improvements.
+
+Several factors likely contributed to the lower-than-expected experimental performance:
+
+- **Blade Tip Deflection**: The 3D printed blades were more flexible than anticipated. At high RPMs, we observed visible tip deflection which distorted the intended aerodynamic shape, reducing lift and increasing drag — particularly at the blade tips where power contribution is highest.
+  
+- **Friction and Inertia in the Test Rig**: The turbine hub, motor shaft, and torque brake introduced additional resistance not accounted for in the theoretical model. This parasitic drag decreased the net power output measured during testing.
+
+- **Sensor Limitations and Data Resolution**: The torque sensor and RPM acquisition system had a coarse resolution and high variance, which may have led to underreporting of peak power output, especially during short-duration, high-speed runs.
+
+- **Testing Interruptions**: Due to a campus-wide power outage during our lab session, we were only able to complete a single velocity sweep, limiting our ability to tune, iterate, or verify results through repeated trials.
+
+- **Assumptions in the BEMT Model**: While our MATLAB simulation accounted for tip losses and wake effects, it still assumes ideal flow, no turbulence, and a perfectly rigid blade. Real-world flow separation, surface roughness, and slight alignment errors all degrade actual performance.
+
+Despite these challenges, our optimized blade **extracted more power than the original blade in the same test conditions**, showing a clear improvement in aerodynamic efficiency. This confirms that even with real-world limitations, thoughtful design and modeling can lead to tangible performance gains.
+
+### 📈 Key Takeaway:
+**Theory guided our design**, but **experiments validated our direction** — even if not perfectly matched in magnitude. Future iterations that address material stiffness, wind tunnel accuracy, and model assumptions can help close the gap between prediction and performance.
+
 
