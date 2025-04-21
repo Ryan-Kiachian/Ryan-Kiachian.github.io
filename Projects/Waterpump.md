@@ -38,7 +38,7 @@ After several iterations, the team finalized a 4-cylinder layout in opposing pai
 
 ---
 
-## 🛠️ Fabrication & Manufacturing Strategy
+## Fabrication & Manufacturing Strategy
 
 The project required detailed tolerance planning and multi-process machining, including:
 
