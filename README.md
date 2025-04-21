@@ -1,4 +1,3 @@
-
 # Ryan Kiachian – Mechanical Engineering Portfolio
 
 Welcome! This is my engineering portfolio showcasing a range of technical projects I've worked on as a senior in Cornell’s Mechanical & Aerospace Engineering program — while also competing as a Division I basketball player.
@@ -7,12 +6,11 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 
 | Project                              | Description                                                                 |
 |--------------------------------------|-----------------------------------------------------------------------------|
-| 💧 Water Pump Design                 | Designed and built a piston pump with 4 cylinders using full-cycle fabrication |
-| 🔥 Engine PV Diagram                | Modeled thermodynamic pressure-volume data using MATLAB                    |
-| 🌪 Wind Turbine Optimization        | Optimized airfoil blade design and tested power curves in a wind tunnel     |
-| 🤖 Autonomous Robot                | Arduino robot for color-zone detection and object collection               |
-| ✈️ Turbofan Analysis               | MATLAB plots of SFC/ST vs Mach & bypass ratio for aircraft propulsion     |
-| 🚀 Jet Engine Thermodynamics       | Thermodynamic cycle analysis and state tracking of turbofan engine         |
+| 💧 [Water Pump Design](./Projects/Waterpump)                 | Designed and built a piston pump with 4 cylinders using full-cycle fabrication |
+| 🔥 [Engine PV Diagram (Forklift Engine)](./Projects/ForkliftEngineP_V)       | Modeled thermodynamic pressure-volume data using MATLAB                    |
+| 🌪 [Wind Turbine Optimization](./Projects/AirfoilDesign)     | Optimized airfoil blade design and tested power curves in a wind tunnel     |
+| 🤖 [Autonomous Robot](./Projects/AutonomousRobot)            | Arduino robot for color-zone detection and object collection               |
+| ✈️ [Turbofan & Jet Engine Analysis](./Projects/AnalysisTurboFan)            | MATLAB plots of SFC/ST vs Mach & bypass ratio for aircraft propulsion     |
 
 ## 📄 Resume
 
