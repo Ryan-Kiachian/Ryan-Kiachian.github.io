@@ -72,13 +72,12 @@ Our robot was programmed using custom Arduino C code that implemented the follow
 3. **Block Collection**
    - Push into the cube pile with the scoop
    - Reverse and return along original path
+   - Drop off cubes and repeat
 
 4. **Return to Home Zone**
    - Use the same sensor logic to recognize the home color and stop
 
-The robot used condition-based logic to update movement decisions in real-time. A sample of the high-level logic flow is shown below:
-
-> ![Figure 3: Flowchart showing robot navigation and block collection logic](./robot-flowchart.png)
+The robot used condition-based logic to update movement decisions in real-time.
 
 ---
 
@@ -86,49 +85,26 @@ The robot used condition-based logic to update movement decisions in real-time. 
 
 - **Wins:** 2 matches successfully completed
 - **Challenges:**
-  - In round 1, the robot failed to detect the board edge in time and fell off the platform.
-  - The scoop caught on a tripod during a fall, disrupting performance.
-  - In round 2, a ground wire to the color sensor came loose, which went unnoticed until round 3.
+  - The one main challenge we faced was the interaction with the opponents robot. If the two bots collided, both got knocked off course.
 - **Fixes & Adjustments:**
   - Recalibrated the robot's starting orientation to better align with the field.
   - Repaired sensor wiring and improved response to edge detection events.
+  - Include a forward facing sensor to allow our bot to avoid the competitors robot.
 - **Insights:**
-  - Robots with larger wheels had a noticeable speed and agility advantage.
-  - Our robot was resilient to interruptions, but recovery from being bumped remained a weakness.
+  - Our robot was faster than opponents to the larger wheels we 3d-printed.
+  - Our robot was resilient to interruptions, but recovery from collissions remained a weakness.
 
 ---
 
 ## 💡 Reflections & Takeaways
 
 - We learned how to **prioritize milestone goals** before tackling complex behaviors.
-- The importance of **robust sensor mounting and wiring** was clear—minor issues caused major failures.
+- The importance of **robust sensor mounting and wiring** was clear because minor issues caused major failures.
 - **Testing under realistic conditions** (with distractions and bumps) would have improved reliability.
 - **Advice to future teams:**
   - Start simple and get the base logic working reliably.
   - Don't overbuild before your robot can drive straight and respond to inputs correctly.
-  - Use `Serial.print` generously for debugging — it’s your best friend when logic isn’t working.
 
----
-
-## 📂 Files in this Folder
-
-- `robot-top-view.png` — Full image of robot with labeled components  
-- `robot-circuit-diagram.png` — Annotated schematic of motor and sensor circuit  
-- `robot-flowchart.png` — Visual layout of control logic  
-- `autonomous-robot-code.ino` — Fully commented Arduino source code  
-- `README.md` — Project write-up and documentation
-
----
-
-## 📸 Bonus Shots
-
-> ![Figure 4: Side view showing the aluminum scoop mechanism](./robot-side-scoop.png)  
-> ![Figure 5: Bottom view with QTI sensors mounted](./robot-bottom-sensors.png)  
-> ![Figure 6: Back view showing wiring and Arduino](./robot-back-view.png)
-
----
-
-Thanks for checking out my Autonomous Robot build!
 
 
 
