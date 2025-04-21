@@ -32,7 +32,7 @@ This project involved designing, optimizing, fabricating, and testing a set of s
 - Defined performance at **most probable wind velocity** using Weibull distribution (U = 4.78 m/s)
 
 <p align="center">
-  <img src="../Projects/Images/AirfoilChordPitch.png" alt="Chord and Pitch Distribution" width="500"/>
+  <img src="../Projects/Images/ChordLengthPitch.png" alt="Chord and Pitch Distribution" width="500"/>
 </p>
 <p align="center"><em>Figure 1: Chord length and pitch angle distributions for the optimized geometry</em></p>
 
