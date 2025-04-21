@@ -59,7 +59,7 @@ Parts were machined in parallel by team members and assembled after verifying to
 
 ---
 
-## 🚿 Testing & Results
+## Testing & Results
 
 The pump was connected to a test motor and run at both half (60 RPM) and full (120 RPM) speed using hose fittings and a faceplate mount. Volumetric flow was measured by observing water displacement in a container.
 
