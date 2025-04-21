@@ -41,7 +41,14 @@ The electrical system integrated multiple sensors and two motors:
   - 9V battery for the Arduino
   - 6V battery pack for motors
 
-> ![Figure 2: Full schematic circuit diagram](./robot-circuit-diagram.png)
+<p align="center">
+  <img src="../Projects/Images/Circuitboard.png" alt="Figure 2: Full schematic circuit diagram" width="400"/>
+</p>
+
+<p align="center">
+  <em>Figure 2: Full schematic circuit diagram</em>
+</p>
+
 
 ---
 
