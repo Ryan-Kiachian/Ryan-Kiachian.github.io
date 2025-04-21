@@ -16,9 +16,13 @@ Key behaviors:
 - Detect board boundaries using QTI sensors
 - Collect blocks with a physical scoop
 - Return to the starting zone autonomously
+<p align="center">
+  <img src="../Projects/Images/RobotTopView.png" alt="Figure 1: Top view of the robot showing Arduino, breadboard, and aluminum scoop" width="400"/>
+</p>
 
->![Figure 1: Top view of the robot showing Arduino, breadboard, and aluminum scoop](<img src="../Projects/Images/RobotTopView.png" alt="Figure 1: Top view of the robot" width="400"/>
-)
+<p align="center">
+  <em>Figure 1: Top view of the robot showing Arduino, breadboard, and aluminum scoop</em>
+</p>
 
 
 
