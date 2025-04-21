@@ -32,7 +32,7 @@ After several iterations, the team finalized a 4-cylinder layout in opposing pai
 <p align="center"><em>Figure 1: Final CAD assembly showing pistons, crankshaft, mounting plates, and U-supports</em></p>
 
 <p align="center">
-  <img src="../Projects/Images/PumpExplodedView.png" width="500"/>
+  <img src="../Projects/Images/" width="500"/>
 </p>
 <p align="center"><em>Figure 2: Exploded view waterpump CAD, and U-supports</em></p>
 
