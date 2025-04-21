@@ -16,7 +16,7 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 
 ## 📄 Resume
 
-📥 [Download Resume](./public/resume.pdf)
+📥 [Download Resume](./public/Resume.pdf)
 
 ---
 
