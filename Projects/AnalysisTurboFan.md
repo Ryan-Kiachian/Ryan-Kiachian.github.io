@@ -51,7 +51,7 @@ Two key plots were generated from the MATLAB simulation:
 
 ---
 
-### 2. SFC and ST vs. **Bypass Ratio** (0 ≤ α ≤ 10)
+### 2. SFC and ST vs. **Bypass Ratio** (0 ≤ α ≤ 8)
 
 <p align="center">
   <img src="../Projects/Images/BypassvsSFC.png" alt="SFC and ST vs Bypass Ratio for various Mach numbers" width="550"/>
