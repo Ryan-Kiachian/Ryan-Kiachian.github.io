@@ -33,5 +33,3 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 </p>
 
 ---
-
-Thanks for visiting!
