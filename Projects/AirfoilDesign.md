@@ -47,7 +47,7 @@ Using a custom MATLAB BEMT script, we generated theoretical performance curves c
 - 🔋 Total energy extraction increased by **13.7%**
 
 <p align="center">
-  <img src="../Projects/Images/TheoreticalPowerAirfoil" alt="Power vs RPM Graph" width="500"/>
+  <img src="../Projects/Images/TheoreticalPowerAirfoil.png" alt="Power vs RPM Graph" width="500"/>
 </p>
 <p align="center"><em>Figure 2: Theoretical power curves comparing baseline and optimized blade designs</em></p>
 
