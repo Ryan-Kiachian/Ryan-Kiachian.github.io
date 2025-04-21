@@ -9,7 +9,7 @@ This project involved designing, optimizing, fabricating, and testing a set of s
 <p align="center">
   <img src="../Projects/Images/PrintedAirFoils.png"  width="400"/>
 </p>
-<p align="center"><em>Figure 1: Finalized setup with Airfoils in rigy</em></p>
+<p align="center"><em>Figure 1: Finalized setup with Airfoils in rig</em></p>
 
 ---
 
