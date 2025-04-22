@@ -23,10 +23,10 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 
 ## 📄 Resume
 
-📥 [Download Resume](./public/Resume.pdf)
+📥 [Download Resume](./Public/Resume.pdf)
 
 <p align="center">
-  <img src="./Projects/Images/Resume.png" width="600"/>
+  <img src="./Public/Resume.png" width="600"/>
 </p>
 
 <p align="center">
