@@ -1,4 +1,4 @@
-# Mechanical Engineering Portfolio
+# Mechanical Engineering Portfolio e
 
 Welcome! This is my engineering portfolio showcasing a range of technical projects I've worked on throughout my time in Cornell’s Mechanical & Aerospace Engineering program, while also competing as a Division I basketball player.
 
