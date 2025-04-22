@@ -19,6 +19,7 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 | 🌪 [Wind Turbine Optimization](./Projects/AirfoilDesign.md)     | Optimized airfoil blade design and tested power curves in a wind tunnel     |
 | 🤖 [Autonomous Robot](./Projects/AutonomousRobot.md)            | Arduino robot for color-zone detection and object collection               |
 | ✈️ [Turbofan Analysis](./Projects/AnalysisTurboFan.md)            | MATLAB plots of SFC/ST vs Mach & bypass ratio for aircraft propulsion     |
+| 🏗 [Forklift Drivetrain Efficiency](./Projects/ForkliftDrivetrainEff.md) | Compared ICE vs. electric forklift powertrains through lab testing and analysis |
 
 ## 📄 Resume
 
