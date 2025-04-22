@@ -43,17 +43,23 @@ Gross efficiency was calculated using:
 - Most efficient state occurred at **20.6 W input**, ~45% efficiency
 - Losses stemmed from the motor, torque converter, brake, and mechanical inefficiencies
 
-  <p align="center">
-  <img src="../Projects/Images/ElectricInputOutput.png"  width="550"/>
+ <p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="../Projects/Images/ElectricInputOutput.png" width="400"/>
+        <br/>
+        <em>Figure 1: Input and Output Power vs Torque Break Current</em>
+      </td>
+      <td align="center">
+        <img src="../Projects/Images/TorquevsEffi.png" width="400"/>
+        <br/>
+        <em>Figure 2: Torque vs Efficiency</em>
+      </td>
+    </tr>
+  </table>
 </p>
-<p align="center"><em>Figure 1: Input and Output Power vs Torque Break Current </em></p>
 
-
-
-<p align="center">
-  <img src="../Projects/Images/TorquevsEffi.png"  width="550"/>
-</p>
-<p align="center"><em>Figure 2: Torque vs Effciency </em></p>
 
 ---
 ## 📈 Motor Characterization
