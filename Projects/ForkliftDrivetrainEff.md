@@ -1,3 +1,5 @@
+[← Back to Main Portfolio](../README.md)
+
 # 🏗 Forklift and Torque Converter Lab
 
 This project investigates the efficiency and drive systems of both **internal combustion engine (ICE)** forklifts and **electric motor-driven forklifts** through hands-on lab experiments. The goal was to measure power flow, identify losses, and analyze the differences between ICE and electric drive systems.
@@ -85,3 +87,4 @@ By plotting **torque vs current** and performing linear regression:
 
 This lab emphasized the **importance of drivetrain architecture** in vehicle design. While ICE forklifts remain valuable in high-demand scenarios, electric forklifts offer clear benefits in efficiency, simplicity, and sustainability.
 
+[← Back to Main Portfolio](../README.md)
