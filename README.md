@@ -26,7 +26,7 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 📥 [Download Resume](./Projects/Images/ResumeRyanKiachian.pdf)
 
 <p align="center">
-  <img src="./Projects/Images/ResumeGitHub.png" width="600"/>
+  <img src="./Projects/Images/ResumeGitHu" width="600"/>
 </p>
 
 
