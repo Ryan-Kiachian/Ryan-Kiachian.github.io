@@ -23,7 +23,7 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 
 ## 📄 Resume
 <p align="center">
-  <img src="./Projects/Images/ResumeGitHu" width="650"/>
+  <img src="./Projects/Images/ResumeGitHub.png" width="650"/>
 </p>
 
 
