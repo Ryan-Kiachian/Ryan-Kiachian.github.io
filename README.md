@@ -23,10 +23,10 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 
 ## 📄 Resume
 
-📥 [Download Resume](./Projects/Images/ResumeGithub.docx)
+📥 [Download Resume](./Projects/Images/ResumeGithub.pdf)
 
 <p align="center">
-  <img src="./Projects/Images/ResumeGithub.docx" width="600"/>
+  <img src="./Projects/Images/ResumeGithub.do" width="600"/>
 </p>
 
 
