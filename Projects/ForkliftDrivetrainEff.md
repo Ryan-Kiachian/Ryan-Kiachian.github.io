@@ -51,7 +51,7 @@ Gross efficiency was calculated using:
 <p align="center">
   <img src="../Projects/Images/TorquevsEfficiency.png"  width="550"/>
 </p>
-<p align="center"><em>Figure 1: Torque vs Effciency </em></p>
+<p align="center"><em>Figure 2: Torque vs Effciency </em></p>
 
 ---
 ## 📈 Motor Characterization
@@ -68,9 +68,9 @@ Although the regression line does not pass through the origin, it crosses the **
 In this context, the **negative torque intercept (−0.5017 Nm)** reflects the regression fit's extrapolation, rather than a physically meaningful torque value at zero current.
 
 <p align="center">
-  <img src="../Projects/Images/MotorTorqueFit.png" alt="Torque vs DC Current" width="550"/>
+  <img src="../Projects/Images/NoLoadCurrent.png"  width="550"/>
 </p>
-<p align="center"><em>Figure: Linear regression of torque vs current to determine motor constant and no-load characteristics</em></p>
+<p align="center"><em>Figure 3: Linear regression of torque vs current to determine motor constant and no-load current</em></p>
 
 
 ---
