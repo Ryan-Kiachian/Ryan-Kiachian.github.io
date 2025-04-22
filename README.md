@@ -23,7 +23,7 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 
 ## 📄 Resume
 
-📥 [Download Resume](./Projects/Images/ResumeRyanKiachian.pdf)
+📥 [Download Resume](./Public/ResumeRyanKiachian.pdf)
 
 <p align="center">
   <img src="./Projects/Images/ResumeGitHub.png" width="600"/>
