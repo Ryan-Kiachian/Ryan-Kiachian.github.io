@@ -43,14 +43,35 @@ Gross efficiency was calculated using:
 - Most efficient state occurred at **20.6 W input**, ~45% efficiency
 - Losses stemmed from the motor, torque converter, brake, and mechanical inefficiencies
 
----
+  <p align="center">
+  <img src="../Projects/Images/ElectricInputOutput.png"  width="550"/>
+</p>
+<p align="center"><em>Figure 1: Input and Output Power vs Torque Break Current </em></p>
 
+<p align="center">
+  <img src="../Projects/Images/TorquevsEfficiency.png"  width="550"/>
+</p>
+<p align="center"><em>Figure 1: Torque vs Effciency </em></p>
+
+---
 ## 📈 Motor Characterization
 
-By plotting **torque vs current** and performing linear regression:
-- **Motor constant (k):** 0.7094 Nm/A
+By plotting **torque vs DC current** and performing linear regression, we obtained the following results:
+
+- **Motor constant (k):** 0.7094 Nm/A  
+- **Linear fit equation:** Torque = 0.7094 × Current − 0.5017  
+- **Predicted torque at 0 A:** −0.5017 Nm  
 - **No-load current:** ~0.707 A
-- **No-load torque:** ~0.045 Nm
+
+Although the regression line does not pass through the origin, it crosses the **x-axis at approximately 0.707 A**. This value represents the **no-load current**, or the minimum current required to overcome internal losses such as bearing friction, windage, and core drag before generating positive output torque. 
+
+In this context, the **negative torque intercept (−0.5017 Nm)** reflects the regression fit's extrapolation, rather than a physically meaningful torque value at zero current.
+
+<p align="center">
+  <img src="../Projects/Images/MotorTorqueFit.png" alt="Torque vs DC Current" width="550"/>
+</p>
+<p align="center"><em>Figure: Linear regression of torque vs current to determine motor constant and no-load characteristics</em></p>
+
 
 ---
 
