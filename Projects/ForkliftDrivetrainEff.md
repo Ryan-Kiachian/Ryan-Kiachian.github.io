@@ -48,8 +48,10 @@ Gross efficiency was calculated using:
 </p>
 <p align="center"><em>Figure 1: Input and Output Power vs Torque Break Current </em></p>
 
+
+
 <p align="center">
-  <img src="../Projects/Images/TorquevsEffi.png"  width="500"/>
+  <img src="../Projects/Images/TorquevsEffi.png"  width="550"/>
 </p>
 <p align="center"><em>Figure 2: Torque vs Effciency </em></p>
 
