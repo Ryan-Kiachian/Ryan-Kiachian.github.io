@@ -47,7 +47,7 @@ Gross efficiency was calculated using:
   <table>
     <tr>
       <td align="center">
-        <img src="../Projects/Images/ElectricInputOutput.png" width="400"/>
+        <img src="../Projects/Images/ElectricInputOutput.png" width="500"/>
         <br/>
         <em>Figure 1: Input and Output Power vs Torque Break Current</em>
       </td>
