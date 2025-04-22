@@ -22,9 +22,6 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 | 🏗 [Forklift Drivetrain Efficiency](./Projects/ForkliftDrivetrainEff.md) | Compared ICE vs. electric forklift powertrains through lab testing and analysis |
 
 ## 📄 Resume
-
-📥 [Download Resume](./Public/ResumeRyanKiachian.pdf)
-
 <p align="center">
   <img src="./Projects/Images/ResumeGitHub.png" width="600"/>
 </p>
