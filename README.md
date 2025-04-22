@@ -29,10 +29,6 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
   <img src="./Projects/Images/ResumeGithub.pdf" width="600"/>
 </p>
 
-<p align="center">
-
-</p>
-
 
 
 ---
