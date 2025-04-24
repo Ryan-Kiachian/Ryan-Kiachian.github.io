@@ -50,7 +50,7 @@ A theoretical Otto cycle was plotted using known pressure-volume states (P₁–
 <p align="center">
   <img src="../Projects/Images/P-VDiagram.png" width="600"/>
 </p>
-<p align="center"><em>Figure 2: Overlay of experimental and theoretical PV curves for comparison</em></p>
+<p align="center"><em>Figure 1: Overlay of experimental and theoretical PV curves for comparison</em></p>
 
 ---
 
