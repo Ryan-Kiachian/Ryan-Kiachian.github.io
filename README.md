@@ -23,9 +23,7 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 
 
 ## 📄 Resume
-<p align="center">
-  <img src="./Projects/Images/PNGRESUME.png" width="650" style="border: 1px solid black;"/>
-</p>
+
 
 
 
