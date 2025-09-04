@@ -21,10 +21,7 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 | ✈️ [Turbofan Analysis](./Projects/AnalysisTurboFan.md)            | MATLAB plots of SFC/ST vs Mach & bypass ratio for aircraft propulsion     |
 | 🏗 [Forklift Drivetrain Efficiency](./Projects/ForkliftDrivetrainEff.md) | Compared ICE vs. electric forklift powertrains through lab testing and analysis |
 
-## 📄 Resume
-<p align="center">
-  <img src="./Projects/Images/PNGRESUME.png" width="650"/>
-</p>
+
 
 
 
