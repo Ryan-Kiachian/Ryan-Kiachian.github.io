@@ -22,12 +22,5 @@ Welcome! This is my engineering portfolio showcasing a range of technical projec
 | 🏗 [Forklift Drivetrain Efficiency](./Projects/ForkliftDrivetrainEff.md) | Compared ICE vs. electric forklift powertrains through lab testing and analysis |
 
 
-## 📄 Resume
-
-<p align="center">
-  <img src="./Projects/Images/resume.png" width="650" style="border: 1px solid black;"/>
-</p>
-
-
 
 ---
